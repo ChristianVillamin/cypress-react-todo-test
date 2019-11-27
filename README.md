@@ -1,3 +1,5 @@
 # Build and test an application using Cypress
 
-This repository is the starting point for an official Cypress tutorial. We encourage you to clone this repo and follow along.
+Learning Cypress testing tool in React. <br/>
+Learning Resource: https://docs.cypress.io/examples/examples/tutorials.html#Best-Practices <br/>
+See me learn it live: https://youtu.be/fDzq5vgszeE?t=5071
